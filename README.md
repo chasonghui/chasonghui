@@ -1,3 +1,5 @@
-### Hi there 👋   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chasonghui)](https://solved.ac/chasonghui/)   
+### 안녕하세요 👋   
+2017.03 ~ 2022.02 : 충북대학교 소프트웨어학과 17th   
+2022.01 ~ 2022.12 : SSAFY 7th   
+2023.01 ~ : LG전자 임베디드SW   
 
